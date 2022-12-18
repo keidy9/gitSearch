@@ -7,9 +7,7 @@
 
 ### Features
 
-&nbsp;&nbsp;&nbsp;&nbsp;Searching for users will show their name, bio, join date, location, twitter, blog, company, and number of repos, followers, 
-&nbsp;&nbsp;&nbsp;&nbsp;and people followed, given that the information is provided. 
-&nbsp;&nbsp;&nbsp;&nbsp;Includes some links such as twitter that will redirect to the following page when clicked on.
+&nbsp;&nbsp;&nbsp;&nbsp;Searching for users will show their name, bio, join date, location, twitter, blog, company, and &nbsp;&nbsp;&nbsp;&nbsp; number of repos, followers, and people followed, given that the information is provided. &nbsp;&nbsp;&nbsp;&nbsp;Includes some links such as twitter that will redirect to the following page when clicked on.
 
 ### Built with
 
