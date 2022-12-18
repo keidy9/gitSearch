@@ -2,7 +2,7 @@
 
 # gitSearch
 
-&nbsp;&nbsp;&nbsp;&nbsp;gitSearch is an app that can search github accounts using the GitHub users API.
+gitSearch is an app that can search github accounts using the GitHub users API.
 
 
 ### Features
