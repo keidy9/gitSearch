@@ -12,11 +12,11 @@ Includes some links such as twitter that will redirect to the following page whe
 
 ### Built with
 
-[React](https://reactjs.org/)
-[React-icons](https://react-icons.github.io/react-icons/) - Third party library for icons.
-HTML
-CSS
-[Github API](https://docs.github.com/en/rest/users?apiVersion=2022-11-28
+[React](https://reactjs.org/)  
+[React-icons](https://react-icons.github.io/react-icons/) - Third party library for icons.  
+HTML  
+CSS  
+[Github API](https://docs.github.com/en/rest/users?apiVersion=2022-11-28  
 
 ### Features to be implemented
 
