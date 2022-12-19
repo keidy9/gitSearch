@@ -24,4 +24,4 @@ Light/Dark mode (Currently only dark mode is available)
 
 
 # Try gitSearch here!
-(Link to be added)
+https://keidy9.github.io/gitsearch/
