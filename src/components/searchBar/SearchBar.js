@@ -1,7 +1,6 @@
 import React, { useRef } from "react";
 import { BsSearch } from "react-icons/bs";
 
-import "../../styles/global.css";
 import classes from "./SearchBar.module.css";
 
 const SearchBar = (props) => {
