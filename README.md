@@ -20,7 +20,7 @@ CSS
 
 ### Features to be implemented
 
-Light/Dark mode (Currently only dark mode is available)
+Light/Dark mode (Currently only dark mode is available)  
 Configure styling for mobile devices
 
 
